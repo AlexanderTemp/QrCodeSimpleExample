@@ -1,6 +1,6 @@
-<h1 align="center">
+<h2 align="center">
  QRCode library for linear gradient and image example
-</h1>
+</h2>
 <br/>
 <div align="center">
 
