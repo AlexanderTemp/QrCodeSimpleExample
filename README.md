@@ -1,5 +1,5 @@
 <h1 align="center">
- QRCode library for linear graddient and image example
+ QRCode library for linear gradient and image example
 </h1>
 <br/>
 <div align="center">
@@ -28,4 +28,5 @@ pip install Pillow
 ---
 ##Example
 
-![Example](https://github.com/AlexanderTemp/QrCodeSimpleExample/blob/master/output/221031_171543.png)
+![Example](https://github.com/AlexanderTemp/QrCodeSimpleExample/blob/master/output/221031_171543.png | width=150)
+
