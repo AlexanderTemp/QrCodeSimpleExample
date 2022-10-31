@@ -26,7 +26,7 @@ pip install Pillow
 ```
 
 ---
-##Example
+## Example
 
 <img src="https://github.com/AlexanderTemp/QrCodeSimpleExample/blob/master/output/221031_171543.png" data-canonical-src="https://github.com/AlexanderTemp/QrCodeSimpleExample/blob/master/output/221031_171543.png" width="200" height="200" />
 
